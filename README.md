@@ -3,7 +3,7 @@
 A passionate developer who loves building bots, automations, and creative tech projects.
 
 ## 🔧 Projects I'm working on:
-- 🤖 Discord Bots (SA:MP status, whitelisting, music system)
+- 🤖 Discord Bots 
 - 🌐 Web Automations, APIs
 - ⚙️ Tools for server admins & gamers
 
